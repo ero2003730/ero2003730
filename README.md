@@ -34,9 +34,10 @@
 
 ---
 
-![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero2003730&show_icons=true&theme=radical)
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero2003730&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ero2003730&layout=compact)](https://github.com/ero2003730/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ero2003730&layout=compact&theme=merko)](https://github.com/ero2003730/github-readme-stats)
+
 
 ---
 
