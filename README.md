@@ -1,5 +1,7 @@
 # Enzo Reis de Oliveira
 
+[![LinkedIn]()](https://www.linkedin.com/in/enzo-reis-de-oliveira-b8a573239/)
+
 Hi there! My name is Enzo Reis de Oliveira, a Computer Science undergraduate student at the Federal University of São Paulo (UNIFESP) and currently an intern at Dcide. I am deeply interested in the field of Artificial Intelligence/Machine Learning and actively seek to expand my expertise in this domain. 
 
 ## What I'm currently working on:
