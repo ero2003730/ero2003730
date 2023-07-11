@@ -30,7 +30,7 @@ Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/enzo-reis-de-
 
 ![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ero2003730&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)](https://github.com/YourUsername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ero2003730&layout=compact)](https://github.com/ero2003730/github-readme-stats)
 
 
 Always open to new opportunities and collaborations!
