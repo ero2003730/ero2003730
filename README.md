@@ -10,6 +10,11 @@
 - Atuando como estagiário de programação na Dcide, com foco em testes de software.
 - Envolvido em projetos de Machine Learning, construindo e ajustando modelos.
 
+## :microscope: Iniciação Científica em Machine Learning:
+- Atualmente envolvido em uma Iniciação Científica focada em Machine Learning na Universidade Federal de São Paulo (UNIFESP).
+- O projeto tem como tema métodos em séries temporais de sensores relacionados a turbinas eólicas.
+- Utilizamos autoencoders para a detecção de falhas em componentes através da identificação de comportamentos anômalos.
+
 ## :open_book: O que estou aprendendo no momento:
 - Conhecimento fundamental de Ciência da Computação na UNIFESP.
 - Aprofundando na área de Inteligência Artificial e Aprendizado de Máquina, explorando várias técnicas e frameworks.
